@@ -1,1 +1,1 @@
-# #7DaysOfCode-Alura__Onnite
+# #7DaysOfCode - Lógica JS 2/7
